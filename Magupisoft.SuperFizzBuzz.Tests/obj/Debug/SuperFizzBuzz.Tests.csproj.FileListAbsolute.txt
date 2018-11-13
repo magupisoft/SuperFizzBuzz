@@ -1,0 +1,17 @@
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\HeadSpringFizzBuzz\SuperFizzBuzz.Tests\bin\Debug\xunit.abstractions.dll
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\HeadSpringFizzBuzz\SuperFizzBuzz.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\HeadSpringFizzBuzz\SuperFizzBuzz.Tests\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\HeadSpringFizzBuzz\SuperFizzBuzz.Tests\bin\Debug\xunit.execution.desktop.dll
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\HeadSpringFizzBuzz\SuperFizzBuzz.Tests\bin\Debug\SuperFizzBuzz.Tests.dll
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\HeadSpringFizzBuzz\SuperFizzBuzz.Tests\bin\Debug\SuperFizzBuzz.Tests.pdb
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\HeadSpringFizzBuzz\SuperFizzBuzz.Tests\bin\Debug\xunit.assert.dll
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\HeadSpringFizzBuzz\SuperFizzBuzz.Tests\bin\Debug\xunit.core.dll
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\HeadSpringFizzBuzz\SuperFizzBuzz.Tests\bin\Debug\xunit.assert.pdb
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\HeadSpringFizzBuzz\SuperFizzBuzz.Tests\bin\Debug\xunit.assert.xml
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\HeadSpringFizzBuzz\SuperFizzBuzz.Tests\bin\Debug\xunit.core.pdb
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\HeadSpringFizzBuzz\SuperFizzBuzz.Tests\bin\Debug\xunit.core.xml
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\HeadSpringFizzBuzz\SuperFizzBuzz.Tests\obj\Debug\SuperFizzBuzz.Tests.csprojResolveAssemblyReference.cache
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\HeadSpringFizzBuzz\SuperFizzBuzz.Tests\obj\Debug\SuperFizzBuzz.Tests.csproj.CoreCompileInputs.cache
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\HeadSpringFizzBuzz\SuperFizzBuzz.Tests\obj\Debug\SuperFizzBuzz.Tests.csproj.CopyComplete
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\HeadSpringFizzBuzz\SuperFizzBuzz.Tests\obj\Debug\SuperFizzBuzz.Tests.dll
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\HeadSpringFizzBuzz\SuperFizzBuzz.Tests\obj\Debug\SuperFizzBuzz.Tests.pdb

@@ -1,0 +1,11 @@
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\HeadSpringFizzBuzz\HeadSpring.SuperFizzBuzz\bin\Debug\Magupisoft.SuperFizzBuzzLibrary.dll
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\HeadSpringFizzBuzz\HeadSpring.SuperFizzBuzz\bin\Debug\Magupisoft.SuperFizzBuzzLibrary.pdb
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\HeadSpringFizzBuzz\HeadSpring.SuperFizzBuzz\obj\Debug\Magupisoft.SuperFizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\HeadSpringFizzBuzz\HeadSpring.SuperFizzBuzz\obj\Debug\Magupisoft.SuperFizzBuzzLibrary.dll
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\HeadSpringFizzBuzz\HeadSpring.SuperFizzBuzz\obj\Debug\Magupisoft.SuperFizzBuzzLibrary.pdb
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\MagupisoftFizzBuzz\Magupisoft.SuperFizzBuzz\bin\Debug\Magupisoft.SuperFizzBuzzLibrary.dll
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\MagupisoftFizzBuzz\Magupisoft.SuperFizzBuzz\bin\Debug\Magupisoft.SuperFizzBuzzLibrary.pdb
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\MagupisoftFizzBuzz\Magupisoft.SuperFizzBuzz\obj\Debug\Magupisoft.SuperFizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\MagupisoftFizzBuzz\Magupisoft.SuperFizzBuzz\obj\Debug\Magupisoft.SuperFizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\MagupisoftFizzBuzz\Magupisoft.SuperFizzBuzz\obj\Debug\Magupisoft.SuperFizzBuzzLibrary.dll
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\MagupisoftFizzBuzz\Magupisoft.SuperFizzBuzz\obj\Debug\Magupisoft.SuperFizzBuzzLibrary.pdb

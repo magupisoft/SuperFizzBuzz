@@ -1,0 +1,10 @@
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\HeadSpringFizzBuzz\HeadSpringFizzBuzz\bin\Debug\HeadSpringFizzBuzz.exe.config
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\HeadSpringFizzBuzz\HeadSpringFizzBuzz\bin\Debug\HeadSpringFizzBuzz.exe
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\HeadSpringFizzBuzz\HeadSpringFizzBuzz\bin\Debug\HeadSpringFizzBuzz.pdb
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\HeadSpringFizzBuzz\HeadSpringFizzBuzz\obj\Debug\HeadSpringFizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\HeadSpringFizzBuzz\HeadSpringFizzBuzz\obj\Debug\HeadSpringFizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\HeadSpringFizzBuzz\HeadSpringFizzBuzz\obj\Debug\HeadSpringFizzBuzz.csproj.CopyComplete
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\HeadSpringFizzBuzz\HeadSpringFizzBuzz\obj\Debug\HeadSpringFizzBuzz.exe
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\HeadSpringFizzBuzz\HeadSpringFizzBuzz\obj\Debug\HeadSpringFizzBuzz.pdb
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\HeadSpringFizzBuzz\HeadSpringFizzBuzz\bin\Debug\HeadSpring.SuperFizzBuzz.dll
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\HeadSpringFizzBuzz\HeadSpringFizzBuzz\bin\Debug\HeadSpring.SuperFizzBuzz.pdb

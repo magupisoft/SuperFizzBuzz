@@ -1,0 +1,5 @@
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\HeadSpringFizzBuzz\SuperFizzBuzz\bin\Debug\SuperFizzBuzz.dll
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\HeadSpringFizzBuzz\SuperFizzBuzz\bin\Debug\SuperFizzBuzz.pdb
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\HeadSpringFizzBuzz\SuperFizzBuzz\obj\Debug\SuperFizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\HeadSpringFizzBuzz\SuperFizzBuzz\obj\Debug\SuperFizzBuzz.dll
+C:\Users\manuel gutierrez\OneDrive\Dev\Headsprint-ManuelGutierrezPineda\HeadSpringFizzBuzz\SuperFizzBuzz\obj\Debug\SuperFizzBuzz.pdb
